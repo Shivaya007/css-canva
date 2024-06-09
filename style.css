@@ -1,0 +1,112 @@
+body{
+    background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\The Power of Image Sequence Education Presentation in Cream Blue Friendly Hand Drawn Style (3).jpg");
+    background-size:cover;
+
+}
+
+header{
+    text-align: center;
+     font-size: 50px;
+    font-family : "Brush Script MT";
+  }
+@keyframes colorChange {
+    0% {
+        color: rgb(214, 40, 40);
+    }
+    50% {
+        color: rgb(235, 101, 101);
+    }
+    100% {
+        color: rgb(246, 145, 145);
+    }
+}
+
+.color-animation {
+    font-size: 3em;
+    position:relative;
+    animation: colorChange 3s infinite;
+    border-radius: 80%;
+   background-color: rgb(226, 208, 161);
+    top:0;
+}
+.one{
+    text-align:center;
+    position:relative;
+
+    
+
+}
+
+h1{
+    font-family : "Brush Script MT";
+
+
+}
+h2{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    
+  
+
+}
+
+    
+
+
+
+.container{
+    padding; 10px;
+    display: flex;
+    background-color:;
+    gap:10px;
+}  
+
+
+.card {
+    background-color: rgb(212, 228, 120);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    margin: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+   border-width: 10px;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+
+#one{
+    background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\white pink green abstrack linktree background (1).png");
+}
+#two{
+    background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\white pink green abstrack linktree background (2).png");
+}
+#three{
+    background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\Pink-Sand4.jpg");
+}
+#four{
+    background-image: url("white pink green abstrack linktree background.png");
+}
+#five{
+    background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\playa-Pariso.webp");
+}
+#six{
+    background-image: url("white pink green abstrack linktree background.png");
+}
+#seven{
+    background-image: url("white pink green abstrack linktree background (1).png");
+}
+#eight{
+    background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\white pink green abstrack linktree background (2).png");
+}
+#nine{
+    background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\white pink green abstrack linktree background.png");
+}
+#ten{
+     background-image: url("C:\\Users\\shiva\\Desktop\\New folder (3)\\Pink-Sand4.jpg");
+}
